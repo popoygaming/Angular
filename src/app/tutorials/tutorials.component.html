@@ -1,0 +1,21 @@
+<div class="training-item" *ngFor="let training of trainings | async">
+    <mat-card class="tp-card">
+        <!-- <mat-card-header>
+            <div mat-card-avatar class="tp-header-image"></div>
+            <mat-card-title>HTML5</mat-card-title>
+            <mat-card-subtitle>HTML Basics</mat-card-subtitle>
+        </mat-card-header> -->
+        <img mat-card-image src={{training.image}} alt="">
+        <mat-card-content>
+            <h4 class="course-desc-header">{{training.category}}</h4>
+            <span class="course-desc">
+                {{training.description}}
+            </span>
+        </mat-card-content>
+        <mat-card-actions>
+            <button>View Course</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
+
+

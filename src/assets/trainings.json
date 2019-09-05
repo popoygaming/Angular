@@ -1,0 +1,79 @@
+[
+    {
+        "course": "SharePoint",
+        "category": "Collaboration",
+        "description": "SharePoint is a web-based collaborative platform that integrates with Microsoft Office. Launched in 2001, SharePoint is primarily sold as a document management and storage system, but the product is highly configurable and usage varies substantially among organizations.",
+        "image": "/assets/sharepoint.png",
+        "lectures": [
+            {
+                "title": "SharePoint 2013",
+                "topics": [
+                    {
+                        "title": "Content and Structure",
+                        "lessons": [
+                            {
+                                "title": "What is SharePoint?",
+                                "materials": {
+                                    "deckLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/SharePoint%202013/Content%20and%20Structure/What%20is%20SharePoint.Deck.zip",
+                                    "labLink": "https:link",
+                                    "docLink": "https:link",
+                                    "videoLink": "https:link"
+                                }
+                            },
+                            {
+                                "title": "SharePoint Hierarchy",
+                                "materials": {
+                                    "deckLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/SharePoint%202013/Content%20and%20Structure/SharePoint%20Hierarchy.Deck.zip",
+                                    "labLink": "https:link",
+                                    "docLink": "https:link",
+                                    "videoLink": "https:link"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course": "Microsoft Azure",
+        "category": "Cloud",
+        "description": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems.",
+        "image": "/assets/azure.png",
+        "lectures": [
+            {
+                "title": "Azure PaaS",
+                "topics": [
+                    {
+                        "title": "Azure Web App",
+                        "lessons": [
+                            {
+                                "title": "Design and implement websites",
+                                "materials": {
+                                    "deckLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/Azure%20Cloud/Azure%20Web%20App/Chapter%201%20-%20Azure%20Web%20App.pptx",
+                                    "labLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/Azure%20Cloud/Azure%20Web%20App/Chapter%201%20-%20Azure%20Web%20App%20-%20Exercises.docx",
+                                    "docLink": "https:link",
+                                    "videoLink": "https:link"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Azure Virtual Machines",
+                        "lessons": [
+                            {
+                                "title": "Create and manage virtual machines",
+                                "materials": {
+                                    "deckLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/Azure%20Cloud/Azure%20Virtual%20Machines/Chapter%202%20-%20Azure%20Virtual%20Machines.pptx",
+                                    "labLink": "https://ts.accenture.com/sites/Manila%20DC%20Microsoft%20Capability%20Group/Avanade/Capability/Olympus%20Initiative/Project%20Alexandria/Azure%20Cloud/Azure%20Virtual%20Machines/Chapter%202%20-%20Azure%20Virtual%20Machines%20-%20Exercises.docx",
+                                    "docLink": "https:link",
+                                    "videoLink": "https:link"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
